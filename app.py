@@ -1,3 +1,4 @@
+#dashboard DashTable and choropleth map
 from dash import Dash,html,dash_table,dcc
 import plotly.express as px
 import  pandas as pd
